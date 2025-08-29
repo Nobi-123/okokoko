@@ -54,7 +54,7 @@
     },
     "GLOG": {
       "description": "bsdk GLOG dal",
-      "value": "waifu_for_u",
+      "value": "-1003054036422",
       "required": true
     },
     "LOGGER_ID": {
